@@ -28,6 +28,7 @@ public class RecyclerActivity extends AppCompatActivity implements makananAdapte
         ListMakanan.add(new modelMakanan("Sop Daging", "20.000", R.drawable.sopdaging, "Sop daging sapi dengan sayuran segar."));
         ListMakanan.add(new modelMakanan("Pizza", "69.000", R.drawable.pizza, "Pizza keju mozzarella dengan topping daging."));
         ListMakanan.add(new modelMakanan("Opor Ayam", "20.000", R.drawable.oporayam, "Ayam dimasak santan khas lebaran."));
+        ListMakanan.add(new modelMakanan("Sharlyf bakar", "2.000", R.drawable.oporayam, "Ayam dimasak santan khas lebaran."));
 
 
 
